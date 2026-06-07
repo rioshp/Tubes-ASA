@@ -1,0 +1,16 @@
+ID_Tugas,Nama_Tugas,Durasi_Pengerjaan_Jam,Deadline_Jam,Bobot_Nilai
+T1,Proyek Makalah ASA,8,48,30
+T2,Praktikum Jarkom,3,24,10
+T3,Tugas Besar PBO,10,72,40
+T4,Laporan Praktikum Basdat,4,48,15
+T5,Tugas Teori GTI,2,24,10
+T6,Kuis Kecerdasan Buatan,2,12,20
+T7,Modul Praktikum RPL,5,72,25
+T8,Tugas Matriks Ruang Vektor,3,48,10
+T9,Laporan Sistem Operasi,4,24,15
+T10,Proyek Akhir Pemrograman Web,12,120,35
+T11,Tugas Algoritma,5,72,20
+T12,Makalah Jaringan,3,48,10
+T13,Tugas Kewarganegaraan,2,24,5
+T14,Modul Praktikum GTI,4,72,15
+T15,Eksplorasi Kriptografi,6,96,25
